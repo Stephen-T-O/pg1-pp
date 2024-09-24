@@ -1,32 +1,20 @@
-<<<<<<< HEAD
 * {
-=======
-*{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
 }
-<<<<<<< HEAD
 
 body {
     overflow-x: hidden;
 }
 .header {
-=======
-body{
-    overflow-x: hidden;
-}
-.header{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     position: fixed;
     top: 0;
     width: 100%;
     overflow: hidden;
     z-index: 9;
 }
-<<<<<<< HEAD
 #dd button {
     background-color: rgba(11, 20, 28, 0.76);
     border-radius: 40px 40px;
@@ -63,38 +51,10 @@ body{
 }
 
 #fs-div1 img {
-=======
-#dd button{
-background-color: aliceblue;
-border-radius: 40px 40px;
-width: 65px;
-border: 0;
-margin-left: 3rem;
-z-index: 15;
-}
-@media (min-width:769px) {
-    #dd button{
-        position: absolute;
-        right: -12.5rem;
-        top: -1rem;
-    }
-}
-#dd img{
-    width: 70%;
-}
-#fs-div{
-    width: 100%;
-    overflow: hidden;
-    margin-top: 2rem;
-}
-
-#fs-div1 img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     margin-top: 4rem;
     width: 95%;
     margin-left: 1rem;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
 
@@ -114,111 +74,60 @@ z-index: 15;
 }
 
 .first-sec p {
-=======
-@media (min-width:769px) {
-  #fs-div, #fs-div1 img{
-    width: 100%;
-    margin-left: 0;
-    margin-top: 5rem;
-}   
-}
-@media (min-width:1020px) {
-    #fs-div1 img{
-        width: 100%;
-        margin-top: 2rem;
-    }
-    
-}
-.first-sec p{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     text-align: center;
     width: 98%;
     margin-left: 12px;
     margin-top: 1rem;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     .first-sec p {
-=======
-@media (min-width:769px) {
-    .first-sec p{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         font-size: 155%;
         font-weight: 450;
         margin-top: 2.1rem;
         line-height: 105%;
     }
-<<<<<<< HEAD
 
 }
 
 #fs-div2 img {
-=======
-    
-}
-#fs-div2 img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     width: 90px;
     height: 27px;
     margin-top: 1rem;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #fs-div2 img {
-=======
-@media (min-width:769px){
-    #fs-div2 img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         width: 150px;
         height: 47px;
         margin-top: 2rem;
     }
 }
-<<<<<<< HEAD
 
 #fs-div2 {
-=======
-#fs-div2{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     margin: auto;
     width: 30%;
     display: flex;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #fs-div2 {
-=======
-@media (min-width:769px){
-    #fs-div2{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         width: 100%;
         padding: 0px 0px 0px 15rem;
     }
 }
-<<<<<<< HEAD
 
 
 #fs-div3 {
-=======
-#fs-div3{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     display: flex;
     padding: 10px 15px;
     margin: auto;
     width: 100%;
     margin-left: 6.5rem;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #fs-div3 {
-=======
-@media (min-width:769px){
-    #fs-div3{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         width: 100%;
         margin-top: 2rem;
         margin-left: 1rem;
@@ -226,7 +135,6 @@ z-index: 15;
         padding-left: 22.5%;
     }
 }
-<<<<<<< HEAD
 
 #fs-div3a {
     width: 35%;
@@ -254,34 +162,10 @@ z-index: 15;
 
 @media (min-width:769px) {
     #fs-div3a span {
-=======
-#fs-div3a{
-    width: 35%;
-}
-@media (min-width:769px){
-    #fs-div3a{
-        width: 250px;
-    }
-}
-#fs-div3a img{
-    width: 8%;
-}
-@media (min-width:769px){
-    #fs-div3a img{
-        width: 9%;
-    }
-}
-#fs-div3a span{
-    font-size: x-small;
-}
-@media (min-width:769px){
-    #fs-div3a span{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         font-size: 15px;
         opacity: 60%;
     }
 }
-<<<<<<< HEAD
 
 #fs-div3b {
     width: 70%;
@@ -304,39 +188,15 @@ z-index: 15;
 
 @media (min-width:769px) {
     #fs-div3b span {
-=======
-#fs-div3b{
-    width: 70%;
-}
-#fs-div3b img{
-    width: 22%;
-}
-@media (min-width:769px) {
-    #fs-div3b img{
-        width: 1.5cm;
-    }
-    
-}
-#fs-div3b span{
-    font-size: x-small;
-}
-@media (min-width:769px){
-    #fs-div3b span{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         font-size: 15px;
         opacity: 60%;
     }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
 #ts-div1 {
     border-radius: 16px;
     margin-top: 3rem;
     padding: 0px 0px;
 }
-<<<<<<< HEAD
 .static {
     width: 280px;
     height: 600px;
@@ -358,20 +218,10 @@ z-index: 15;
     height: 100%;
 }
 #ts-div1 img {
-=======
-@media (min-width:769px) {
-    #ts-div{
-        display: flex;
-    }
-    
-}
-#ts-div1 img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     width: 100%;
     object-fit: cover;
     border-radius: 16px 16px 0px 0px;
     height: 70%;
-<<<<<<< HEAD
     margin-top: -2.9rem;
 }
 
@@ -382,38 +232,20 @@ z-index: 15;
     }
 
     #ts-div1a h3 {
-=======
-    margin-top: -2.9rem;   
-}
-@media (min-width:769px) {
-    #ts-div1 img{
-        height: 120%;
-        border-radius: 16px 0px 0px 0px;
-    }
-    #ts-div1a h3{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         font-size: 50px;
         font-weight: 700;
         line-height: 1.5cm;
     }
-<<<<<<< HEAD
 
     #ts-div1a p {
         margin-top: 2rem;
         font-size: 20px;
     }
 
-=======
-    #ts-div1a p{
-        margin-top: 2rem;
-        font-size: 20px;
-    }
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     #ts-div1a {
         text-align: center;
     }
 }
-<<<<<<< HEAD
 
 #ts-div {
     padding: 0px 0px 20px 0px;
@@ -436,16 +268,12 @@ z-index: 15;
 
 #ts-div2 {
     padding: 0px 0px 20px 0px;
-=======
-#ts-div{  padding: 0px 0px 20px 0px;
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     background-color: #F7F7FB;
     width: 95%;
     border-radius: 16px;
     overflow: hidden;
     margin-top: 3rem;
     margin-left: 1rem;
-<<<<<<< HEAD
 
 }
 
@@ -458,32 +286,19 @@ z-index: 15;
 }
 
 #ts-div1a {
-=======
- 
-}
-#ts-div1a{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     text-align: left;
     width: 95%;
     padding: 20px 10px;
 }
-<<<<<<< HEAD
 
 #fsc-div1a img {
-=======
-#fsc-div1a img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     width: 100%;
     object-fit: cover;
     border-radius: 16px 16px 0px 0px;
     height: 70%;
 }
-<<<<<<< HEAD
 
 #fsc-div {
-=======
-#fsc-div{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     background-color: #F7F7FB;
     width: 95%;
     border-radius: 16px;
@@ -491,7 +306,6 @@ z-index: 15;
     margin-top: 3rem;
     margin-left: 1rem;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #fsc-div {
@@ -499,19 +313,10 @@ z-index: 15;
     }
 
     #fsc-div1a img {
-=======
-@media (min-width:769px) {
-    #fsc-div{
-        display: flex;
-        flex-direction: row-reverse;
-    }
-    #fsc-div1a img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         height: 120%;
         border-radius: 0px 0px 0px 0px;
     }
 }
-<<<<<<< HEAD
 
 #fsc-div1b {
     margin-top: 1.5rem;
@@ -530,21 +335,6 @@ z-index: 15;
 }
 
 #fsc-div1b button {
-=======
-#fsc-div1b{
-    margin-top:1.5rem;
-    padding: 15px;
-}
-#fsc-div1b h3{
-    font-weight: bold;
-    font-size: x-large;
-}
-#fsc-div1b p {font-size: 90%;
- line-height: 105%;
- margin-top: 1.3rem;
-}
-#fsc-div1b button{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     background-color: #6D46DB;
     color: white;
     width: 97px;
@@ -555,7 +345,6 @@ z-index: 15;
     font-size: small;
     margin-top: 2rem;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #fsc-div1b h3 {
@@ -649,32 +438,12 @@ pre {
 }
 
 #ffs-div {
-=======
-@media (min-width:769px) {
-    #fsc-div1b h3{
-        font-size: 50px;
-    }
-    #fsc-div1b p{
-        font-size: 20px;
-        line-height: 1cm;
-    }
-    #fsc-div1b {
-        width: 70%;
-    }
-    #fsc-div1b button{
-        display: none;
-    }    
-}
-#ffs-div{
-    margin-top: 5rem;
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     padding: 25px 20px 25px 15px;
     color: white;
     background-color: #6035B2;
     height: 140px;
     overflow: hidden;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #ffs-div {
@@ -727,55 +496,12 @@ pre {
 
 }
 
-=======
-@media (min-width:769px) {
-    #ffs-div{
-        height: 120px;
-    }
-}
-#fd1{
-font-weight: bold;
-font-size: larger;
-}
-#fd2{
-    font-size: 22px;
-    font-weight:700;
-    margin-top: 3rem;
-}
-#ffs-div1{
-    display: flex;
-    margin-top: 1rem;
-}
-#ffs-div1a img{
-    width: 90px;
-}
-#ffs-div1b img{
-    width: 90px;
-}
-@media (min-width:769px) {
-#ffs-div1{
-    position: relative;
-    float: right;
-    top: -4rem;
-    right: -1rem;
-}
-#ffs-div1a img,#ffs-div1b img{
-    height: 50px;
-    width: 130px;
-}
-#fd1,#fd2{
-    font-size: 36px;
-}
-    
-}
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
 #ls-div {
     padding: 15px 0px 5px 0px;
     margin-left: 0rem;
     background-color: #1E1E1E;
     overflow: hidden;
 }
-<<<<<<< HEAD
 
 #ls-div1 {
     margin-left: -1rem;
@@ -799,31 +525,11 @@ font-size: larger;
     font-size: large;
 }
 
-=======
-#ls-div1{
-    margin-left: -1rem;
-}
-#ls-div1 ul li img{
-    width: 30%;
-    padding: 10px 0px 5px 0px;
-}
-#ls-div1 ul li{
-    list-style: none;
-}
-#ls-div1 ul li a{
-    text-decoration: none;
-    color: white;
-}
-#li-h{
-    font-size: large;
-}
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
 @media (min-width:769px) {
     #ls-div {
         display: flex;
         justify-content: space-between;
         line-height: 0.7cm;
-<<<<<<< HEAD
         padding: 3rem 0rem 0rem;
     }
 
@@ -844,39 +550,16 @@ font-size: larger;
 }
 
 #ft-div1 img {
-=======
-        padding: 3rem 0rem 0rem ;
-    }
-    #ls-div hr{
-        display: none;
-    }
-    #ls-div1 ul li img{
-        width: 3.5cm;
-        position: relative;
-        margin-left: -1rem;
-    }   
-}
-#ft-div{
-    background-color:  #212529;
-    overflow: hidden;
-}
-#ft-div1 img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     width: 23px;
     margin-left: 0.7rem;
     margin-top: 1.3rem;
 }
-<<<<<<< HEAD
 
 #p1 {
-=======
-#p1{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     margin-top: 2rem;
     font-size: smaller;
     padding: 12px 16px;
 }
-<<<<<<< HEAD
 
 #ft-div hr {
     margin-top: 2rem;
@@ -884,18 +567,10 @@ font-size: larger;
 
 #p2 {
     font-size: 80%;
-=======
-#ft-div hr{
-    margin-top: 2rem;
-}
-#p2{
-    font-size:80%;
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
     padding: 12px 16px;
     text-align: left;
     opacity: 20%;
 }
-<<<<<<< HEAD
 
 @media (min-width:769px) {
     #ft-div1 img {
@@ -929,77 +604,11 @@ font-size: larger;
     }
 @media (min-width:1024px) {
     #fs-div2 img {
-=======
-@media (min-width:769px) {
-    #ft-div1 img{
-        position: relative;
-        float: right;
-    }
-    
-}
-@media (min-width: 769px) {
-    #ss-div1a img {
-        width: 95%;
-        height: 147%;
-        position: absolute;
-        bottom: -61rem;
-        margin-left: 2rem;
-    }
-}
-@media (min-width: 899px) {
-    #ss-div1a img{
-        display: none;
-    }
-    
-}
-@media (min-width: 1024px) {
-
-    #ft-div, #ls-div, #ffs-div, .fourth-sec, .third-sec, #ss-div1, #fs-div {
-        padding: 2rem 10rem ;
-    }
-    #ss-div1c img, #ss-div1d img{
-        width: 100%;
-        height: 15cm;
-    }
-    .second-sec{
-        padding: 0rem 2rem 5rem;
-    }
-}
-@media (min-width:1024px) {
-    #hidden{
-        display: block;
-        width: 100%;
-        position: absolute;
-        top: 40rem;
-        padding: 3rem;
-        overflow: hidden;
-    }
-    #hidden img{
-        width: 80%;
-        height: 100%;
-    }
-    .header{
-        padding: 0rem 0rem 0rem 10rem;
-        height: 60px;
-        width: 90%;
-        background-color: #FFFFFF;
-    }
-    #navbarNav li a{
-        padding: 0rem 2rem;
-    }
-    #navbarNav{
-        margin-left: -6rem;
-    }
-}
-@media (min-width:1024px){
-    #fs-div2 img{
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
         width: 150px;
         height: 47px;
         margin-top: 3rem;
         margin-left: 11rem;
     }
-<<<<<<< HEAD
 
     #fs-div3a {
         width: 250px;
@@ -1012,16 +621,4 @@ font-size: larger;
         top: -1rem;
         right: -1rem;
     }
-=======
-     #fs-div3a{
-            width: 250px;
-            margin-left: 4rem;
-        }
-     #ffs-div1{
-                position: relative;
-                float: right;
-                top: -1rem;
-                right: -1rem;
-            }
->>>>>>> 4e21f3cede73f710d7713d09658789dc4bd62935
 }
