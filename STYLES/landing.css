@@ -523,9 +523,6 @@ font-size: larger;
     #navbarNav li a{
         padding: 0rem 2rem;
     }
-    #navbarNav{
-        margin-left: -6rem;
-    }
 }
 @media (min-width:1024px){
     #fs-div2 img{
